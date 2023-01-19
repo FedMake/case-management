@@ -18,8 +18,8 @@ Case Management FedMake Accelerator Developed by Makers within the Federal, Inte
 
 ## Deployment Guide
 
-1. Download [case-management.zip](https://github.com/FedMake/policy-review/raw/main/solution/v1.0.0/case-management.zip)
-2. Import the [case-management.zip](https://github.com/FedMake/policy-review/raw/main/solution/v1.0.0/case-management.zip) Power Platform solution file into Dataverse.
+1. Download [case-management.zip](https://github.com/FedMake/case-management/raw/main/solution/v1.0.0/case-management.zip)
+2. Import the [case-management.zip](https://github.com/FedMake/case-management/raw/main/solution/v1.0.0/case-management.zip) Power Platform solution file into Dataverse.
 
 
 ## What is a FedMake Accelerator
